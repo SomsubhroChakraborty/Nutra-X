@@ -1,0 +1,15 @@
+.AppControlInput {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+button {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: green;
+  border-color: darkgreen;
+  color: white;
+}

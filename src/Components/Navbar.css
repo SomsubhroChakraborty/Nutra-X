@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dancing+Script&family=Open+Sans:wght@300&family=Playfair+Display:ital@1&family=Raleway:ital,wght@1,100&family=Rubik+Pixels&display=swap');
+
+.navbar {
+  background-color: rgb(79, 199, 49);
+  padding: 10px;
+  color: rgb(22, 83, 6);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Croissant One', cursive;
+  filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
+  font-size: 26px;
+  width: 100%;
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links li {
+  margin-right: 220px;
+}
+
+.links a {
+  text-decoration: none;
+  color: rgb(22, 83, 6);
+}

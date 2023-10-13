@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dancing+Script&family=Open+Sans:wght@300&family=Playfair+Display:ital@1&family=Raleway:ital,wght@1,100&family=Rubik+Pixels&display=swap');
+
+.itembar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Raleway', sans-serif; */
+  /* font-family: 'Rubik Pixels', cursive; */
+  font-size: 160px;
+  opacity: 1.9875;
+}
+.itembar p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}

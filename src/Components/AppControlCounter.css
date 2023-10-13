@@ -1,0 +1,9 @@
+.app_controls_counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.app_controls_counter span {
+  color: red;
+}
